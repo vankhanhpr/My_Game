@@ -24,6 +24,7 @@ public class Animation
     {
         delay=d;
     }
+    //sdfdgdlgkhdflkbdfgk
     public  void setFrames(int i)
     {
         currentFrame=i;
